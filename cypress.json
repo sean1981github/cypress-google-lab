@@ -1,0 +1,7 @@
+{
+  "ignoreTestFiles": "**/examples/*.js",
+  "baseUrl": "https://docs.google.com/forms/d/e/1FAIpQLScIzAg2LTVQ2NRItxElR6GBchdedGvzELXtwYhC_GrP-0jxFQ/viewform?usp=sf_link",
+
+  "viewportWidth": 1280,
+  "viewportHeight": 700
+}
